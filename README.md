@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-### 📊 GitHub Stats
-![Hainzcn's GitHub stats](https://stats.vercel.app/api?username=Hainzcn&show_icons=true&theme=graywhite)
+### 📊 GitHub 统计
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hainzcn&theme=default)
 
-### 🔠 Most Used Languages
-![Top Langs](https://stats.vercel.app/api/top-langs/?username=Hainzcn&layout=compact)
+### 🔤 常用语言
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hainzcn&theme=default)
