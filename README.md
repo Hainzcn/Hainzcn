@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hainzcn)
+![Top Langs](https://stats.vercel.app/api/top-langs/?username=Hainzcn&layout=compact)
